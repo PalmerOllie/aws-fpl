@@ -1,0 +1,22 @@
+{
+  "name": "aws-fpl",
+  "version": "1.0.0",
+  "description": "APIs to pull FPL data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PalmerOllie/aws-fpl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PalmerOllie/aws-fpl/issues"
+  },
+  "homepage": "https://github.com/PalmerOllie/aws-fpl#readme",
+  "dependencies": {
+    "ts-node": "^9.1.1"
+  }
+}
